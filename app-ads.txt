@@ -1,0 +1,4 @@
+# app-ads.txt - IAB Tech Lab / authorized sellers for apps
+# code & chord (code-chord) の iOS アプリ共通
+# 参照: https://iabtechlab.com/app-ads-txt/
+google.com, pub-8713761965517511, DIRECT, f08c47fec0942fa0
